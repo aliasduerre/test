@@ -7,4 +7,8 @@ public class Test1 {
         System.out.println("Ciao");
     }
     
-}
+}// fine classe Main
+/*
+Inizializzo il progetto e lo imposto come repository
+
+*/
